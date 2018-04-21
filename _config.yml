@@ -5,9 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://precioustar.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: preciouStar Researcher 
+username: Seongjin's  Portfolio
 user_description: R&D Center | Internet Security Laboratory | Researcher 
-user_title: Software Developer
+user_title: 인터넷보안연구소 연구원
 email: anon@anon.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
