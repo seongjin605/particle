@@ -1,14 +1,14 @@
 # Site settings
-title: Software Development
-description: Software Development
+title: Software Development Engineer
+description: Software Development Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://precioustar.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Seongjin's Website
-user_description: R&D Center | Internet Security Laboratory | Researcher
-user_title: 인터넷보안연구소 연구원
-email: anon@anon.com
+user_description: Software Engineer
+user_title: Software Engineer
+email: seongjin605@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
